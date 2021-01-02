@@ -15,7 +15,7 @@ paginate = 5
 
 [params]
   author = "MD Tanvir Anjum"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  description = "I am student of AIUB, pursuing my undergraduate"
   menu_item_separator = " - "
   [[params.social]]
     name = "github"
